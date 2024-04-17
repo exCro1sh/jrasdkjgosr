@@ -1,0 +1,31 @@
+{
+  "lisans": "------------------------------------------------------------
+                  Naxe Bot Lisans Sözleşmesi
+------------------------------------------------------------
+
+Bu yazılım, LuX ve HydroniX tarafından Naxe adına geliştirilmiştir.
+Bu yazılım, Açık kaynak projesi değildir ve lisans sözleşmesi ile korunmaktadır.
+Bu lisans sözleşmesi, yazılımın kullanımını düzenlemektedir.
+
+Lisans Sahibi: Naxe
+Geliştiriciler: LuX & HydroniX
+
+1. Dağıtım:
+   - Bu yazılım sadece GitHub üzerinden dağıtılmaktadır. Başka herhangi bir yerde dağıtımı yapılamaz.
+
+2. Satış ve Pazarlama:
+   - Bu yazılım, lisans sahibi tarafından izin verilen durumlar dışında satılamaz veya pazarlanamaz.
+
+3. Değişiklikler:
+   - Açık kaynak değildir satılamaz, düzenlenemez, pazarlanamaz.
+
+4. Sorumluluk Reddi:
+   - Bu yazılımın kullanımından kaynaklanan hiçbir sorumluluk kabul edilmemektedir.
+
+5. Güvenlilik:
+   - Girdiğiniz hiçbir bilgi kayıt altına alınmamaktadır, key ve discord adresini güncel tutmak adına github üzerinden sadece otomatik güncellenen json kaynaklı dosyalar bulunmaktadır bunlarda sadece proje sahibi erişebilmektedir kaynakların hepsi koruma altındadır.   
+
+Bu lisans sözleşmesini kabul ederek, Naxe Bot'u kullanmaya başlamış sayılırsınız.
+
+--------"
+}
