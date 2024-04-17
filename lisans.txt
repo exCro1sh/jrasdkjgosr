@@ -1,5 +1,4 @@
-{
-  "lisans": "------------------------------------------------------------
+------------------------------------------------------------
                   Naxe Bot Lisans Sözleşmesi
 ------------------------------------------------------------
 
@@ -27,5 +26,4 @@ Geliştiriciler: LuX & HydroniX
 
 Bu lisans sözleşmesini kabul ederek, Naxe Bot'u kullanmaya başlamış sayılırsınız.
 
---------"
-}
+--------
